@@ -1,7 +1,1 @@
-{
-  "ok": true,
-  "source": "github-json",
-  "status": "inicializado",
-  "message": "Aguardando primeira exportacao pelo SONYC",
-  "updated_at": null
-}
+{"ok":true,"backend":"GitHub JSON","source":"SONYC BM local","updated_at":"2026-09-14T13:23:04.5760462Z","status":{"connector_id":"7cab5471-ab6a-4756-b4c8-9d83df63720f","name":"SONYC JSON GitHub","source_path":"C:\\bmSoft\\Bases\\RioCampense","version":"SONYC-3.2.0-JSON-GITHUB-SEM-NEON","last_seen_at":"2026-09-14T13:23:04.5770442Z","last_sync_at":"2026-09-14T13:23:04.5780405Z","last_result":"github_json","last_error":null,"ativo":true,"stock_mode":"json_github_full_snapshot","total_products":6881,"esperado_sonyc":6881,"estoque_atual":67483.526,"reserva_total":459,"saldo_final":67024.526,"vendas_inicializadas":true,"total_movimentos":418,"total_documentos":1,"devolucoes":6,"cancelamentos":0,"ticket_documentos":51,"ticket_total":139761.78,"ticket_medio":2740.427058823529,"ultima_venda":"2026-09-14T00:00:00.0000000-03:00","total_logs":0,"ultimo_log":null}}
